@@ -1,0 +1,9 @@
+*.pth
+*.txt
+/home/ninad/vaibhav_r/GNR_650/Assignment_2/GNR_650_Assignment_2/IAB-GZSL/AwA2
+*.pyc
+*.mat
+*.jpg
+IAB-GZSL/logs/
+IAB-GZSL/out/
+IAB-GZSL/data/
